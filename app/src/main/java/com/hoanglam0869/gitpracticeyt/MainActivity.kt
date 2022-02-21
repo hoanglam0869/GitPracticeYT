@@ -9,7 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         println("THIS IS CONTAINED IN MY SECOND COMMIT")
-        println("CHANGE 2")
+        println("CHANGE 3")
         println("THIS LINE WILL BE MERGED")
     }
 }
